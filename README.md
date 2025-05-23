@@ -47,4 +47,3 @@ This work provides practical implementation guidelines for privacy-preserving me
 | 8.0 | 83.2 | 66.0 |
 | 10.0 | 83.2 | 66.1 |
 
-\
